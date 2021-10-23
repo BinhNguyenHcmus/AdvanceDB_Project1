@@ -12,6 +12,7 @@ WITH
     TABLOCK
 )
 
+-- SAN PHAM CO GIA TU 100000 DEN 1000000
 BULK INSERT SANPHAM
 FROM '\\Mac\Home\Downloads\sanpham.csv'
 WITH
