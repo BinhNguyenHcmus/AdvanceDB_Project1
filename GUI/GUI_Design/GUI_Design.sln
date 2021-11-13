@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cau2", "\\Mac\Home\Download
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cau3", "\\Mac\Home\Downloads\Cau3\Cau3.csproj", "{56CE42D5-986B-4318-87B7-42E575915F55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cau1", "Cau1\Cau1.csproj", "{DE8A28D6-344F-457C-96BF-498ABE298594}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cau1", "Cau1\Cau1.csproj", "{9715C193-528A-4A9A-A6A9-98037BFB996A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{56CE42D5-986B-4318-87B7-42E575915F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56CE42D5-986B-4318-87B7-42E575915F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56CE42D5-986B-4318-87B7-42E575915F55}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DE8A28D6-344F-457C-96BF-498ABE298594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DE8A28D6-344F-457C-96BF-498ABE298594}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DE8A28D6-344F-457C-96BF-498ABE298594}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DE8A28D6-344F-457C-96BF-498ABE298594}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9715C193-528A-4A9A-A6A9-98037BFB996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9715C193-528A-4A9A-A6A9-98037BFB996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9715C193-528A-4A9A-A6A9-98037BFB996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9715C193-528A-4A9A-A6A9-98037BFB996A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

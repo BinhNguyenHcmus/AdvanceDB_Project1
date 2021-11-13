@@ -1,0 +1,9 @@
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\bin\Debug\Cau1.exe.config
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\bin\Debug\Cau1.exe
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\bin\Debug\Cau1.pdb
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\obj\Debug\Cau1.Properties.Resources.resources
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\obj\Debug\Cau1.csproj.GenerateResource.cache
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\obj\Debug\Cau1.exe
+\\Mac\AllFiles\Users\Study\AdvanceDB_Project1\GUI\GUI_Design\Cau1\obj\Debug\Cau1.pdb
