@@ -1,0 +1,10 @@
+C:\Users\huyen\source\repos\GUI_Design\Cau1\bin\Debug\Cau1.exe.config
+C:\Users\huyen\source\repos\GUI_Design\Cau1\bin\Debug\Cau1.exe
+C:\Users\huyen\source\repos\GUI_Design\Cau1\bin\Debug\Cau1.pdb
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.Form1.resources
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.Properties.Resources.resources
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.csproj.GenerateResource.cache
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.csproj.CoreCompileInputs.cache
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.exe
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.pdb
+C:\Users\huyen\source\repos\GUI_Design\Cau1\obj\Debug\Cau1.csproj.AssemblyReference.cache

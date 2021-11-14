@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\Cau3\bin\Debug\ADB1_14_P1.exe.config
+\\Mac\Home\Downloads\Cau3\bin\Debug\ADB1_14_P1.exe
+\\Mac\Home\Downloads\Cau3\bin\Debug\ADB1_14_P1.pdb
+\\Mac\Home\Downloads\Cau3\obj\Debug\Cau3.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Cau3\obj\Debug\ADB1_14_P1.Cau3.resources
+\\Mac\Home\Downloads\Cau3\obj\Debug\ADB1_14_P1.Properties.Resources.resources
+\\Mac\Home\Downloads\Cau3\obj\Debug\Cau3.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Cau3\obj\Debug\Cau3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Cau3\obj\Debug\ADB1_14_P1.exe
+\\Mac\Home\Downloads\Cau3\obj\Debug\ADB1_14_P1.pdb

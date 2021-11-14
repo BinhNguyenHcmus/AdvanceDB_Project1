@@ -1,0 +1,10 @@
+\\Mac\Home\Downloads\Cau2\bin\Debug\Giao diện câu 2.exe.config
+\\Mac\Home\Downloads\Cau2\bin\Debug\Giao diện câu 2.exe
+\\Mac\Home\Downloads\Cau2\bin\Debug\Giao diện câu 2.pdb
+\\Mac\Home\Downloads\Cau2\obj\Debug\Cau2.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Cau2\obj\Debug\Giao_diện_câu_2.Form1.resources
+\\Mac\Home\Downloads\Cau2\obj\Debug\Giao_diện_câu_2.Properties.Resources.resources
+\\Mac\Home\Downloads\Cau2\obj\Debug\Cau2.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Cau2\obj\Debug\Cau2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Cau2\obj\Debug\Giao diện câu 2.exe
+\\Mac\Home\Downloads\Cau2\obj\Debug\Giao diện câu 2.pdb
